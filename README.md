@@ -1,2 +1,2 @@
 # rabbitmq-queue-manager
-Biblioteca para projetos Java que automatiza a criação de filas no RabbitMQ
+Library for Java projects with Spring that automates queue creation in RabbitMQ.
