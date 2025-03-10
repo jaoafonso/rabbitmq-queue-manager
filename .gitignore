@@ -19,6 +19,7 @@ logs
 log/
 
 # Runtime data
+.settings/
 pids
 *.pid
 *.seed
